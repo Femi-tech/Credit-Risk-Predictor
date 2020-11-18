@@ -21,7 +21,10 @@ Which model had the best balanced accuracy score? Which model had the best recal
 
 For each of the above, I will:
 
-1.Train a logistic regression classifier from sklearn.linear_model using the resampled data. 2.Calculate the balanced accuracy score from sklearn.metrics. 3.Calculate the confusion matrix from sklearn.metrics. 4.Print the imbalanced classification report from imblearn.metrics.
+1.Train a logistic regression classifier from sklearn.linear_model using the resampled data.
+2.Calculate the balanced accuracy score from sklearn.metrics.
+3.Calculate the confusion matrix from sklearn.metrics. 
+4.Print the imbalanced classification report from imblearn.metrics.
 
 ### Ensemble Learning
 QUESTIONS TO BE ANSWERED
