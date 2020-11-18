@@ -1,6 +1,4 @@
-# Machine-Learning-Classifications
-
-## Predicting credit risk using several machine learning models. Using Lending club data.
+# Predicting credit risk using several machine learning models. Using Lending club data.
 
 ![credit-risk](Image/credit-risk.jpg)
 
