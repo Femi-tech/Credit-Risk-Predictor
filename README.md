@@ -14,7 +14,10 @@ QUESTIONS TO BE ANSWERED
 Which model had the best balanced accuracy score? Which model had the best recall score? Which model had the best geometric mean score?
 
 ### PROCESS
-1.Load the Lending Club data, split the data into training and testing sets, and scale the features data. 2.Oversample the data using the Naive Random Oversampler and SMOTE algorithms. 3.Undersample the data using the Cluster Centroids algorithm. 4.Over- and under-sample using a combination SMOTEENN algorithm.
+1.Load the Lending Club data, split the data into training and testing sets, and scale the features data.
+2.Oversample the data using the Naive Random Oversampler and SMOTE algorithms.
+3.Undersample the data using the Cluster Centroids algorithm. 
+4.Over- and under-sample using a combination SMOTEENN algorithm.
 
 For each of the above, I will:
 
@@ -25,7 +28,12 @@ QUESTIONS TO BE ANSWERED
 Which model had the best balanced accuracy score? Which model had the best recall score? Which model had the best geometric mean score? What are the top three features?
 
 ### PROCESS
-1.Load the Lending Club data, split the data into training and testing sets, and scale the features data. 2.Train the model using the quarterly data from LendingClub provided in the Resource folder. 3.Calculate the balanced accuracy score from sklearn.metrics. 4.Print the confusion matrix from sklearn.metrics. 5.Generate a classification report using the imbalanced_classification_report from imbalanced learn. 6.For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
+1.Load the Lending Club data, split the data into training and testing sets, and scale the features data.
+2.Train the model using the quarterly data from LendingClub provided in the Resource folder.
+3.Calculate the balanced accuracy score from sklearn.metrics. 
+4.Print the confusion matrix from sklearn.metrics. 
+5.Generate a classification report using the imbalanced_classification_report from imbalanced learn.
+6.For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
 
 ### CONCLUSION AND FINAL ANSWERS.
 RESAMPLING
